@@ -1,0 +1,75 @@
+Historia de Java: De la Electrónica de Consumo a la Base del Software Empresarial
+La historia de Java es la evolución de un lenguaje concebido con un objetivo claro: la
+portabilidad. Su filosofía, resumida en el lema “Write Once, Run Anywhere” (Escríbelo una vez,
+ejecútalo en cualquier lugar), marcó un antes y un después en el desarrollo de software y
+transformó profundamente la informática moderna.
+1. El origen: Proyecto Green (1991)
+Todo comenzó en Sun Microsystems con un pequeño equipo liderado por James Gosling,
+conocido como el “padre de Java”.
+Objetivo inicial
+Java no fue creado para la web. Su propósito original era desarrollar software para dispositivos
+electrónicos de consumo, como controles remotos, televisores inteligentes y decodificadores.
+Nombre original: Oak
+El lenguaje fue inicialmente llamado Oak con hojas verdes y rojas, en honor a un roble que Gosling veía desde su
+oficina.
+Cambio de nombre a Java
+Debido a problemas de marca registrada, el equipo decidió cambiar el nombre. Durante una
+reunión informal, eligieron “Java”, inspirado en el café de la isla de Java en Jakarta, un símbolo de energía
+y dinamismo.
+2. El salto a Internet (1995)
+Con el crecimiento explosivo de Internet a partir de 1993, Sun Microsystems identificó una
+oportunidad clave: la portabilidad de Java encajaba perfectamente con la naturaleza diversa
+de la web.
+Lanzamiento oficial
+Java fue presentado públicamente el 23 de mayo de 1995, marcando el inicio de su expansión
+global.
+Los applets: innovación en el navegador
+Uno de sus primeros grandes éxitos fueron los applets, pequeños programas que podían
+ejecutarse dentro del navegador, permitiendo crear contenido interactivo en páginas web, algo
+revolucionario en su momento.
+La JVM: el corazón de Java
+El verdadero diferenciador de Java fue su arquitectura basada en la Máquina Virtual de Java
+(JVM).
+Esta capa intermedia permite que el código compilado (bytecode) se ejecute en cualquier
+sistema operativo sin modificaciones.
+3. Expansión y era móvil (2000 – 2010)
+Durante los años 2000, Java alcanzó una expansión masiva y se convirtió en un estándar de
+facto en múltiples industrias.
+Dominio en dispositivos móviles
+Con la plataforma J2ME (Java Micro Edition), Java se posicionó como el lenguaje principal en
+teléfonos móviles antes de la llegada de los smartphones modernos.
+Apertura al código abierto (2006)
+Sun Microsystems liberó gran parte de Java bajo licencia GPL, impulsando su adopción en la
+comunidad open source y fortaleciendo su ecosistema.
+Adquisición por Oracle (2010)
+En enero de 2010, Oracle Corporation adquirió Sun Microsystems, convirtiéndose en el
+responsable de la evolución y mantenimiento de Java hasta la actualidad.
+4. Java en la actualidad
+Aunque ya no tiene presencia en navegadores (debido a la desaparición de los applets) ni
+domina el mundo móvil como antes, Java sigue siendo una de las tecnologías más sólidas y
+relevantes del ecosistema tecnológico.
+Uso empresarial
+Java es ampliamente utilizado en sistemas críticos y de gran escala en empresas como:
+• Amazon
+• Netflix
+• Google
+• Uber
+Arquitecturas modernas
+Java ha evolucionado hacia modelos modernos como los microservicios, siendo Spring Boot
+uno de los frameworks más utilizados para este propósito.
+Evolución del lenguaje
+En los últimos años, Java ha incorporado mejoras importantes:
+• Sistema de módulos (Java 9)
+• Nuevas APIs modernas (Streams, Date/Time)
+• Tipado inferido (var)
+• Mejoras en rendimiento y concurrencia
+• Ciclo de releases más rápido (cada 6 meses)
+Popularidad constante
+Java se mantiene consistentemente entre los lenguajes más utilizados del mundo, ocupando posiciones destacadas en rankings como el Índice TIOBE, compitiendo con tecnologías como
+Python y C++.
+Conclusión
+Java no es solo un lenguaje de programación; es una plataforma que ha sabido adaptarse a
+múltiples eras tecnológicas: desde dispositivos embebidos, pasando por la web, hasta
+convertirse en un pilar fundamental del desarrollo empresarial moderno.
+Su capacidad de evolución, estabilidad y enorme ecosistema lo mantienen como una apuesta
+segura para desarrolladores y empresas en todo el mundo.
