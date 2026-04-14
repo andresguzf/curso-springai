@@ -10,7 +10,7 @@ Objetivo inicial
 Java no fue creado para la web. Su propósito original era desarrollar software para dispositivos
 electrónicos de consumo, como controles remotos, televisores inteligentes y decodificadores.
 Nombre original: Oak
-El lenguaje fue inicialmente llamado Oak con hojas verdes y rojas, en honor a un roble que Gosling veía desde su
+El lenguaje fue inicialmente llamado Oak, en honor a un roble con hojas verdes y rojas que Gosling veía desde su
 oficina.
 Cambio de nombre a Java
 Debido a problemas de marca registrada, el equipo decidió cambiar el nombre. Durante una
